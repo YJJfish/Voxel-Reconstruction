@@ -8,11 +8,11 @@ This project can reconstruct the voxel model of opaque objects.
 Results:
 
 <p>
-    <center><img src="images/55.bmp" style="width:30vw;"><img src="images/Compare2.png" style="width:32vw;"></center>
+    <center><img src="images/55.bmp" style="width:25vw;"><img src="images/Compare2.png" style="width:25vw;"></center>
 </p>
 
 <p>
-    <center><img src="images/image-20211102181512350.png" style="width:30vw;"><img src="images/Duck1.png" style="width:32vw;"></center>
+    <center><img src="images/image-20211102181512350.png" style="width:25vw;"><img src="images/Duck1.png" style="width:25vw;"></center>
 </p>
 
 ## Setup
@@ -52,7 +52,7 @@ To visualize the output of our system, install [MagicaVoxel](https://ephtracy.gi
 
    Various methods can be used to extract the silhouettes. For example, change the background color and capture another photo; or use [U2Net](https://github.com/xuebinqin/U-2-Net).
 
-   <img src="images/image-20211102180214541.png" alt="image-20211102180214541" style="zoom:33%;" /><img src="images/image-20211102175559264.png" alt="image-20211102175559264" style="zoom:33%;" />
+   <img src="images/image-20211102180214541.png" alt="image-20211102180214541" style="zoom:25%;" /><img src="images/image-20211102175559264.png" alt="image-20211102175559264" style="zoom:25%;" />
 
 4. Carving Coarse Model
 
@@ -66,7 +66,7 @@ To visualize the output of our system, install [MagicaVoxel](https://ephtracy.gi
 
    <img src="images/image-20221203131727047.png" alt="image-20221203131727047" style="zoom:50%;" />
 
-<img src="images/image-20221203132620650.png" alt="image-20221203132620650" style="zoom: 50%;" />
+<img src="images/image-20221203132620650.png" alt="image-20221203132620650" style="zoom: 30%;" />
 
 6. 2nd Carving
 
