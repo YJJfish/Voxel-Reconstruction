@@ -58,7 +58,7 @@ To visualize the output of our system, install [MagicaVoxel](https://ephtracy.gi
 
    Various methods can be used to extract the silhouettes. For example, change the background color and capture another photo; or use [U2Net](https://github.com/xuebinqin/U-2-Net).
 
-   <img src="images/image-20211102180214541.png" alt="image-20211102180214541" style="width:25vw;" /><img src="images/image-20211102175559264.png" alt="image-20211102175559264" style="width:25vw;" />
+   <img src="images/image-20211102180214541.png" alt="image-20211102180214541" style="width:25vw;" /><img src="images/image-20211102175559264.png" alt="image-20211102175559264" style="width:40vw;" />
 
 4. Carving Coarse Model
 
